@@ -1,4 +1,4 @@
-# Agriculture Crops Detection using TensorFlow
+# Agriculture Crops image Detection using TensorFlow
 
 
 This project utilizes deep learning with TensorFlow to detect and classify agricultural crops in images. The model is trained on a dataset of agricultural images, and it can be used to identify different types of crops in new images.
@@ -21,4 +21,4 @@ This project utilizes deep learning with TensorFlow to detect and classify agric
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/agriculture-crops-detection.git
+   git clone git@github.com:MadanBabu1314114/Agriculture_crops_image_detection_DL.git
