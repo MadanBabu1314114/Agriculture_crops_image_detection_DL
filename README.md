@@ -5,9 +5,8 @@ This project utilizes deep learning with TensorFlow to detect and classify agric
 
 ## Features
 
-- **Crop Detection:** Identify the presence of crops in images.
+- **Crop Detection:** Identify the presence of crops in image.
 - **Crop Classification:** Classify the detected crops into different categories.
-- **User Interface (Optional):** (Describe if your project has a user interface for easy interaction.)
 
 ## Getting Started
 
